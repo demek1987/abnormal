@@ -1,0 +1,26 @@
+{
+  "name": "abnormal",
+  "version": "0.1.0",
+  "description": "High performance RDBMS framework based on schemaless theory",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimzhan/abnormal.git"
+  },
+  "keywords": [
+    "schemaless",
+    "rdbms",
+    "sql",
+    "performance",
+    "nosql"
+  ],
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jimzhan/abnormal/issues"
+  },
+  "homepage": "https://github.com/jimzhan/abnormal#readme"
+}
